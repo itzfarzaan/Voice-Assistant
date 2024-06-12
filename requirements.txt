@@ -1,0 +1,1 @@
+pip install SpeechRecognition pyttsx3 pywhatkit wikipedia pyjokes bs4 words2num speech_recognition
